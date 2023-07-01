@@ -38,7 +38,7 @@ python -m pip install iilog-pckg
 Otherwise, you can install directly from the github repo using
 
 ```shell
-python -m pip install git+https://github.com/kyasuda516/iilog.git
+python -m pip install git+https://github.com/kyasuda516/iilog-pckg.git
 ```
 
 <br>

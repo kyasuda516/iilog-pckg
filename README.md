@@ -124,7 +124,7 @@ Also, the `iilog.formatters.Formatter`, `iilog.filters.Filter`, `iilog.handlers.
 
 <br>
 
-## Example of loading a config file
+## Example for loading a configuration file
 
 config.yml:
 ```YAML

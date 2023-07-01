@@ -156,7 +156,7 @@ logger.info('I told you so')
 
 The results are as follows:
 ```shell
-$ python test.py
+$ python sample2.py
 2023-07-01 02:03:04,005 - foobarExample - INFO - I told you so
 
 ```
